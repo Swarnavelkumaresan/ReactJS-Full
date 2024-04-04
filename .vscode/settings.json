@@ -1,0 +1,12 @@
+{
+  "php.format.rules.switchStatementNewLineAfterLeftParen": true,
+  "php.format.rules.newLineAfterImplements": true,
+  "php.format.rules.switchStatementNewLineBeforeRightParen": true,
+  "php.format.rules.whileStatementNewLineAfterLeftParen": true,
+  "php.format.rules.whileStatementNewLineBeforeRightParen": true,
+  "php.format.rules.keepFunctionsOnOneLine": true,
+  "php.format.rules.keepControlStatementsOnOneLine": true,
+  "php.format.rules.keepClassesOnOneLine": true,
+  "php.format.rules.ifStatementNewLineBeforeRightParen": true,
+  "php.format.rules.ifStatementNewLineAfterLeftParen": true
+}
